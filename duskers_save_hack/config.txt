@@ -1,0 +1,2 @@
+max_scrap=54
+max_fuel=5
